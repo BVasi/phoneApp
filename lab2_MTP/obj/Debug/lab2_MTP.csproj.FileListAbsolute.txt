@@ -1,0 +1,10 @@
+C:\Users\Vasi\source\repos\lab2_MTP\lab2_MTP\bin\Debug\lab2_MTP.exe.config
+C:\Users\Vasi\source\repos\lab2_MTP\lab2_MTP\bin\Debug\lab2_MTP.exe
+C:\Users\Vasi\source\repos\lab2_MTP\lab2_MTP\bin\Debug\lab2_MTP.pdb
+C:\Users\Vasi\source\repos\lab2_MTP\lab2_MTP\obj\Debug\lab2_MTP.csproj.AssemblyReference.cache
+C:\Users\Vasi\source\repos\lab2_MTP\lab2_MTP\obj\Debug\lab2_MTP.Form1.resources
+C:\Users\Vasi\source\repos\lab2_MTP\lab2_MTP\obj\Debug\lab2_MTP.Properties.Resources.resources
+C:\Users\Vasi\source\repos\lab2_MTP\lab2_MTP\obj\Debug\lab2_MTP.csproj.GenerateResource.cache
+C:\Users\Vasi\source\repos\lab2_MTP\lab2_MTP\obj\Debug\lab2_MTP.csproj.CoreCompileInputs.cache
+C:\Users\Vasi\source\repos\lab2_MTP\lab2_MTP\obj\Debug\lab2_MTP.exe
+C:\Users\Vasi\source\repos\lab2_MTP\lab2_MTP\obj\Debug\lab2_MTP.pdb
